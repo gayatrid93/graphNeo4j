@@ -1,0 +1,19 @@
+u1	ACTOR
+u2	MOVIE
+u3	MOVIE
+u4	MOVIE
+u5	MOVIE
+u6	GENRE	genre="Comedy"
+u7	DIRECTOR	firstName="Woody"	lastName="Allen"
+u1	u2
+u1	u3
+u1	u4
+u1	u5
+u6	u2
+u6	u3
+u6	u4
+u6	u5
+u7	u2
+u7	u3
+u7	u4
+u7	u5

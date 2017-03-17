@@ -1,0 +1,15 @@
+u2	GENRE	genre="Drama"
+u3	MOVIE
+u1	DIRECTOR
+u4	ACTOR
+u7	GENRE	genre="Comedy"
+u8	MOVIE
+u6	DIRECTOR
+u9	DIRECTOR
+u2	u3
+u1	u3
+u4	u3
+u7	u8
+u4	u8
+u6	u8
+u9	u8

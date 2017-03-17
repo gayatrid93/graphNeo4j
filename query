@@ -1,0 +1,8 @@
+u1	PERSON	name=”X”
+u2	MOVIE	title=”Y”
+u3	MOVIE	title=”Z”
+u4	DIRECTOR	name=”A”
+u1	u2
+u1	u3
+u2	u4
+u3	u4
